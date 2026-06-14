@@ -19,6 +19,9 @@ Full-stack quiz application with a Next.js API backend and a React frontend. Que
 ### RenderingShowcase — Port 3004
 Demonstrations of Next.js rendering strategies: Static Site Generation (SSG), Incremental Static Regeneration (ISR), Server-Side Rendering (SSR), and dynamic routes with `getStaticPaths`.
 
+### XadrezNextJS — Port 3005
+Chess board rendered with Next.js using the Pages Router. Demonstrates JSX-based procedural rendering: an 8×8 grid is built programmatically with alternating black and white squares using CSS Modules.
+
 ### TypeScriptEssentials — Port 4000
 TypeScript introduction exercises covering basic types, type aliases, interfaces, and module usage. Runs via `live-server` without a build step.
 
